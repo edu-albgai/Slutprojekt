@@ -45,8 +45,13 @@ ul{
     padding-left: 18px;
 }
 
-#ia{
+#hem{
     max-width: 200%;
     max-height: 200%;
     padding: 0px;
+}
+footer{
+    padding-left: 18px;
+    background-color: rgb(9, 3, 55);
+    
 }
