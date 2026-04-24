@@ -22,8 +22,10 @@ p{
     background-color: rgb(47, 47, 141);
 }
 
-#subnautica{
-    background-color: seagreen;
+#sub-body{
+    background-image: url(ni.jpg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #minecraft{
@@ -36,13 +38,14 @@ ul{
     gap: 20%;
     font-family: fantasy;
     font-size: 35px;
-    background-color: rgb(9, 3, 55);
+    background-color: rgb(34, 187, 210);
     background-size: 100px;
     margin:0;
     height: 100px;
     align-items: center;
     padding-right: 8px;
     padding-left: 18px;
+    border-radius: 20px;
 }
 
 #hem{
@@ -50,6 +53,12 @@ ul{
     max-height: 200%;
     padding: 0px;
 }
+
+#sc{
+    max-width: 200%;
+    max-height: 200%;
+}
+
 footer{
     padding-left: 18px;
     background-color: rgb(9, 3, 55);
@@ -58,4 +67,13 @@ footer{
 
 #tab{
     padding-left: 50px;
+}
+
+main{
+    width: 75%;
+    margin:0 auto;
+    background-color: seagreen;
+    padding: 20px;
+    min-height: 100vh;
+    border-radius: 60px;
 }
