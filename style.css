@@ -59,6 +59,16 @@ ul{
     max-height: 200%;
 }
 
+#mc{
+    max-width: 200%;
+    max-height: 200%;
+}
+
+#subn{
+    max-width: 200%;
+    max-height: 200%;
+}
+
 footer{
     padding-left: 18px;
     background-color: rgb(9, 3, 55);
