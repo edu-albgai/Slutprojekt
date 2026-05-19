@@ -49,24 +49,25 @@ ul{
 }
 
 #hem{
-    max-width: 200%;
-    max-height: 200%;
+    width: 200%;
+    height: 200%;
     padding: 0px;
 }
 
 #sc{
-    max-width: 200%;
-    max-height: 200%;
+    width: 250%;
+    height: 250%
 }
 
 #mc{
-    max-width: 200%;
-    max-height: 200%;
+    width: 100%;
+    height: 100%;
 }
 
 #subn{
-    max-width: 200%;
-    max-height: 200%;
+    width: 100%;
+    height: 200%;
+    padding: 10%;
 }
 
 footer{
