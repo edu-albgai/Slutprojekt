@@ -1,6 +1,7 @@
 body{
     background-color: rgb(149, 108, 158);
     margin: 0;
+
 }
 
 h1{
@@ -23,7 +24,7 @@ p{
 }
 
 #sub-body{
-    background-image: url(ni.jpg.webp);
+    background-image: url(Images/ni.jpg.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -72,8 +73,13 @@ ul{
 
 footer{
     padding-left: 18px;
-    background-color: rgb(9, 3, 55);
-    
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 40vh;
+    font-size: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #tab{
